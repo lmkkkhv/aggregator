@@ -21,11 +21,11 @@
   "storage": {
     "engine": "gist",
     "items": {
-      "crawledproxies": {"filename": "crawledproxies.json", "gist_id": "YOUR_GIST_ID", "username": "lmkkkhv"},
-      "crawledsubs": {"filename": "crawledsubs.json", "gist_id": "YOUR_GIST_ID", "username": "lmkkkhv"},
-      "free-clash": {"filename": "free-clash.yaml", "gist_id": "YOUR_GIST_ID", "username": "lmkkkhv"},
-      "free-singbox": {"filename": "free-singbox.json", "gist_id": "YOUR_GIST_ID", "username": "lmkkkhv"},
-      "free-v2ray": {"filename": "free-v2ray.txt", "gist_id": "YOUR_GIST_ID", "username": "lmkkkhv"}
+      "crawledproxies": {"filename": "crawledproxies.json", "gist_id": "8f5201dbeab55aff16edd935764dc8d5", "username": "lmkkkhv"},
+      "crawledsubs": {"filename": "crawledsubs.json", "gist_id": "8f5201dbeab55aff16edd935764dc8d5", "username": "lmkkkhv"},
+      "free-clash": {"filename": "free-clash.yaml", "gist_id": "8f5201dbeab55aff16edd935764dc8d5", "username": "lmkkkhv"},
+      "free-singbox": {"filename": "free-singbox.json", "gist_id": "8f5201dbeab55aff16edd935764dc8d5", "username": "lmkkkhv"},
+      "free-v2ray": {"filename": "free-v2ray.txt", "gist_id": "8f5201dbeab55aff16edd935764dc8d5", "username": "lmkkkhv"}
     }
   }
 }
