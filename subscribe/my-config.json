@@ -2,7 +2,7 @@
   "crawl": {
     "enable": true,
     "exclude": "",
-    "github": {"enable": true, "exclude": "", "exclude_repos": [], "pages": 2, "push_to": ["free"]},
+    "github": {"enable": true, "exclude": "", "exclude_repos": [], "pages": 10, "push_to": ["free"]},
     "google": {"enable": false},
     "include_nodes": true,
     "max_fails": 5,
