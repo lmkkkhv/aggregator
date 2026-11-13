@@ -19,8 +19,7 @@ env:
   # not check connective
   SKIP_ALIVE_CHECK: ${{ vars.SKIP_ALIVE_CHECK }}
 
-  # skip remark
-  SKIP_REMARK: ${{ vars.SKIP_REMARK }}
+  # skip remarkSKIP_REMARK: ${{ vars.SKIP_REMARK }}
 
   # workflow mode
   WORKFLOW_MODE: ${{ vars.WORKFLOW_MODE }}
